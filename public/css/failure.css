@@ -1,0 +1,33 @@
+.image {
+    display: flex;
+    margin-left: 325px;
+    margin-right: auto;
+    width: 300px;
+    padding: 2rem;
+    border-radius: 300px;
+}
+
+.bigHeading,
+.subText {
+    color: yellow;
+    text-align: left;
+    margin: auto;
+    padding: 0.3rem;
+}
+
+.tryAgain {
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5rem;
+}
+
+#failure {
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: black;
+    padding: 5rem;
+    border-radius: 300px;
+}
