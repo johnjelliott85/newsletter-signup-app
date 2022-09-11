@@ -1,0 +1,15 @@
+body {
+    background-color: #000;
+}
+
+p {
+    padding: 1rem;
+}
+
+.bigHeading {
+    padding: 5rem;
+}
+
+.landingText {
+    text-align: center;
+}
